@@ -2,9 +2,9 @@
 # Script desarrollado por Javier Pérez
 clear
 echo
-echo "###############################################################"
-echo "Bienvenido al Sistema de Copias de Seguridad de Ministra Server"
-echo "###############################################################"
+echo "#########################################################"
+echo "Bienvenido al Sistema de Copias Restic de Ministra Server"
+echo "#########################################################"
 while true; do
 echo
 echo "1. Realizar copia de seguridad"
