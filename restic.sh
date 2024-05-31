@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script desarrollado por Javier Pérez
 clear
 echo
 echo "###############################################################"
