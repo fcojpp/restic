@@ -30,6 +30,7 @@ case $opcion in
         restic -r rclone:gdrive_bk:/ministra_backup restore $num_copia --target $ruta_copia --password-file .passrestic
         ;;
     4)
+        # Salir
         echo "Saliendo ..."
         exit 0
         ;;
